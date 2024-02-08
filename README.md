@@ -28,7 +28,7 @@ While using our Application, in order to provide features of our Application, We
 
 - Approximate or precise location.
 
-We use this information to provide features of our Service and to improve and customize our Service. The information is uploaded to the Service Provider's server and stored on Your Device.
+We use this information to provide features of our Service and to improve and customize our Service. The information is uploaded to the Service Provider's server and stored on Your Device storage.
 
 ## Changes to this Privacy Policy
 
