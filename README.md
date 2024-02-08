@@ -42,12 +42,6 @@ The Service Provider may use Personal Data for the following purposes:
 
 We may share Your personal information with Service Providers to monitor and analyze the use of our Service.
 
-## Links to Other Websites
-
-Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third-party's site. We strongly advise You to review the Privacy Policy of every site You visit.
-
-We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
 ## Changes to this Privacy Policy
 
 We reserve the right to update this Privacy Policy periodically. We will notify you of any changes by posting the updated Privacy Policy on this page. We recommend reviewing this Policy regularly for any modifications. Changes become effective upon posting on this page.
