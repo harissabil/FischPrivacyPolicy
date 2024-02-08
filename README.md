@@ -30,18 +30,6 @@ While using our Application, in order to provide features of our Application, We
 
 We use this information to provide features of our Service and to improve and customize Our Service. The information may be uploaded to the Service Provider's server or it may be simply stored on Your Device.
 
-## Use of Your Personal Data
-
-The Service Provider may use Personal Data for the following purposes:
-
-- To provide and maintain our Service, including to monitor the usage of our Service.
-- To manage Your requests: To attend and manage Your requests to Us.
-- For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing, and your experience.
-
-## Sharing of Your Personal Information
-
-We may share Your personal information with Service Providers to monitor and analyze the use of our Service.
-
 ## Changes to this Privacy Policy
 
 We reserve the right to update this Privacy Policy periodically. We will notify you of any changes by posting the updated Privacy Policy on this page. We recommend reviewing this Policy regularly for any modifications. Changes become effective upon posting on this page.
